@@ -1,8 +1,6 @@
 package org.finomnis.chunkyclustertools;
 
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 
 
 
